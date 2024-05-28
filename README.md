@@ -1,6 +1,6 @@
 ### vue3-ts-template
 
-````bash
+```bash
 npm install
 
 npm run dev
@@ -12,4 +12,6 @@ npm run lint
 npm run format
 
 npm run commit
-````
+```
+
+### 添加release tag
