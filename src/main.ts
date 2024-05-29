@@ -11,6 +11,4 @@ app.use(icons) // 注册element-plus图标
 app.use(store) // 注册vuex
 app.use(router) // 注册路由
 
-console.log('环境🍌', import.meta.env.MODE)
-
 app.mount('#app')
